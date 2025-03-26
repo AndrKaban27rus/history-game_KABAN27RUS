@@ -1,0 +1,11 @@
+Model Information:
+* title:	Canarian Cafe - cake display
+* source:	https://sketchfab.com/3d-models/canarian-cafe-cake-display-867570f94d654385bb9750248849892b
+* author:	Lanzaman (https://sketchfab.com/lanzaboy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Canarian Cafe - cake display" (https://sketchfab.com/3d-models/canarian-cafe-cake-display-867570f94d654385bb9750248849892b) by Lanzaman (https://sketchfab.com/lanzaboy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

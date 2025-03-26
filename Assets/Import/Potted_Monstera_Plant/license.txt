@@ -1,0 +1,11 @@
+Model Information:
+* title:	Potted Monstera Plant
+* source:	https://sketchfab.com/3d-models/potted-monstera-plant-a0cf794be6294479b1adb74db093984a
+* author:	angemturc (https://sketchfab.com/angemturc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Potted Monstera Plant" (https://sketchfab.com/3d-models/potted-monstera-plant-a0cf794be6294479b1adb74db093984a) by angemturc (https://sketchfab.com/angemturc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
